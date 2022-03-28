@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Project Description
+"This project aims to scrape and aggregate ""crowd-sourced"" (collected by different volunteer groups) survey data collected by http://coastalcleanup.nus.edu.sg and show the distribution of marine debris found at various beach sites over the years, in terms of the types of marine debris and geographical locations of the clean-up sites. Currently, the site displays individual site reports and yearly consolidated reports, but lacks an overall consolidated view of the trends over the years which will be useful to derive insights from the data (e.g. whether the situation is improving over the years).
 
-You can use the [editor on GitHub](https://github.com/okiane/CoastalCleanupSG/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/okiane/CoastalCleanupSG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Significance of looking into marine debris: 
+- https://www.straitstimes.com/singapore/environment/national-framework-to-tackle-marine-litter-expected-to-be-out-next-year 
+- https://www.straitstimes.com/singapore/politics/parliament-two-year-study-underway-to-look-into-marine-litter-and-microplastics 
+- https://www.straitstimes.com/singapore/environment/toxic-bacteria-found-on-microplastics-around-singapores-coastline
