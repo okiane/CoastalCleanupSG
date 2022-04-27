@@ -1,319 +1,319 @@
 Year,parent_id,id,value,colour
 2014,Debris Summary,Debris Summary,923.8293093767547,maroon
 2014,Fishing Gear,Fishing Gear,19.18585064570466,deepskyblue
-2014,Fishing Gear.Fishing Buoys,Fishing Buoys,0.9545199326221224,Fishing Gear.Fishing Buoys
-2014,Fishing Gear.Fishing Gear,Fishing Gear,19.18585064570466,Fishing Gear.Fishing Gear
-2014,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,4.008983717012915,Fishing Gear.Fishing Net & Pieces
-2014,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),5.154407636159461,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2014,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),9.067939359910163,Fishing Gear.Rope (1 Meter = 1 Piece)
+2014,Fishing Gear.Fishing Buoys,Fishing Buoys,0.9545199326221224,deepskyblue
+2014,Fishing Gear.Fishing Gear,Fishing Gear,19.18585064570466,deepskyblue
+2014,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,4.008983717012915,deepskyblue
+2014,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),5.154407636159461,deepskyblue
+2014,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),9.067939359910163,deepskyblue
 2014,Items Of Local Concern,Items Of Local Concern,286.3391353172375,Items Of Local Concern
-2014,Items Of Local Concern.1,1,263.8798427849523,Items Of Local Concern.1
-2014,Items Of Local Concern.Foam Pieces,Foam Pieces,167.1083660864683,Items Of Local Concern.Foam Pieces
-2014,Items Of Local Concern.Plastic Pieces,Plastic Pieces,73.5822571588995,Items Of Local Concern.Plastic Pieces
-2014,Items Of Local Concern.Rubber Bands,Rubber Bands,5.367770915216171,Items Of Local Concern.Rubber Bands
+2014,Items Of Local Concern.1,1,263.8798427849523,Items Of Local Concern
+2014,Items Of Local Concern.Foam Pieces,Foam Pieces,167.1083660864683,Items Of Local Concern
+2014,Items Of Local Concern.Plastic Pieces,Plastic Pieces,73.5822571588995,Items Of Local Concern
+2014,Items Of Local Concern.Rubber Bands,Rubber Bands,5.367770915216171,Items Of Local Concern
 2014,Most Likely To Find Items,Most Likely To Find Items,552.6221224031443,Most Likely To Find Items
-2014,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),10.926445816956766,Most Likely To Find Items.Beverage Bottles (Glass)
-2014,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),105.89556428972486,Most Likely To Find Items.Beverage Bottles (Plastic)
-2014,Most Likely To Find Items.Beverage Cans,Beverage Cans,11.459854014598541,Most Likely To Find Items.Beverage Cans
-2014,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),4.20550252667041,Most Likely To Find Items.Bottle Caps (Metal)
-2014,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),37.49017405951712,Most Likely To Find Items.Bottle Caps (Plastic)
-2014,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,52.2515440763616,Most Likely To Find Items.Cigarette Butts
-2014,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),16.052779337450872,Most Likely To Find Items.Cups & Plates (Foam)
-2014,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),6.0583941605839415,Most Likely To Find Items.Cups & Plates (Paper)
-2014,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),32.846715328467155,Most Likely To Find Items.Cups & Plates (Plastic)
-2014,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",65.18248175182481,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2014,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",11.212801796743403,"Most Likely To Find Items.Forks, Knives, Spoons"
-2014,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),26.78832116788321,Most Likely To Find Items.Grocery Bags (Plastic)
-2014,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),10.533408197641775,Most Likely To Find Items.Lids (Plastic)
-2014,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,62.57158899494666,Most Likely To Find Items.Other Plastic Bags
-2014,Most Likely To Find Items.Paper Bags,Paper Bags,5.626052779337451,Most Likely To Find Items.Paper Bags
-2014,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,49.69679955081415,Most Likely To Find Items.Straws/Stirrers
-2014,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),22.083099382369458,Most Likely To Find Items.Take Out Containers (Foam)
-2014,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),20.943290286355982,Most Likely To Find Items.Take Out Containers (Plastic)
+2014,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),10.926445816956766,Most Likely To Find Items
+2014,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),105.89556428972486,Most Likely To Find Items
+2014,Most Likely To Find Items.Beverage Cans,Beverage Cans,11.459854014598541,Most Likely To Find Items
+2014,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),4.20550252667041,Most Likely To Find Items
+2014,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),37.49017405951712,Most Likely To Find Items
+2014,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,52.2515440763616,Most Likely To Find Items
+2014,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),16.052779337450872,Most Likely To Find Items
+2014,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),6.0583941605839415,Most Likely To Find Items
+2014,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),32.846715328467155,Most Likely To Find Items
+2014,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",65.18248175182481,Most Likely To Find Items
+2014,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",11.212801796743403,Most Likely To Find Items
+2014,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),26.78832116788321,Most Likely To Find Items
+2014,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),10.533408197641775,Most Likely To Find Items
+2014,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,62.57158899494666,Most Likely To Find Items
+2014,Most Likely To Find Items.Paper Bags,Paper Bags,5.626052779337451,Most Likely To Find Items
+2014,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,49.69679955081415,Most Likely To Find Items
+2014,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),22.083099382369458,Most Likely To Find Items
+2014,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),20.943290286355982,Most Likely To Find Items
 2014,Other Trash,Other Trash,16.339135317237506,silver
-2014,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.9320606400898372,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2014,Other Trash.Balloons,Balloons,0.6625491297024144,Other Trash.Balloons
-2014,Other Trash.Cigar Tips,Cigar Tips,1.858506457046603,Other Trash.Cigar Tips
-2014,Other Trash.Cigarette Lighters,Cigarette Lighters,5.91802358225716,Other Trash.Cigarette Lighters
-2014,Other Trash.Fireworks,Fireworks,0.30320044918585065,Other Trash.Fireworks
-2014,Other Trash.Other Trash,Other Trash,16.339135317237506,Other Trash.Other Trash
-2014,Other Trash.Tyres,Tyres,1.0275126333520495,Other Trash.Tyres
+2014,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.9320606400898372,silver
+2014,Other Trash.Balloons,Balloons,0.6625491297024144,silver
+2014,Other Trash.Cigar Tips,Cigar Tips,1.858506457046603,silver
+2014,Other Trash.Cigarette Lighters,Cigarette Lighters,5.91802358225716,silver
+2014,Other Trash.Fireworks,Fireworks,0.30320044918585065,silver
+2014,Other Trash.Other Trash,Other Trash,16.339135317237506,silver
+2014,Other Trash.Tyres,Tyres,1.0275126333520495,silver
 2014,Packaging Materials,Packaging Materials,48.30432341381247,dimgray
-2014,Packaging Materials.1,1,48.30432341381247,Packaging Materials.1
-2014,Packaging Materials.6-Pack Holders,6-Pack Holders,0.2021336327905671,Packaging Materials.6-Pack Holders
-2014,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,30.988208871420554,Packaging Materials.Other Plastic / Foam Packaging
-2014,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",8.338012352610892,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2014,Packaging Materials.Strapping Bands,Strapping Bands,4.581695676586187,Packaging Materials.Strapping Bands
-2014,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,4.1942728804042675,Packaging Materials.Tobacco Packaging / Wrappers
+2014,Packaging Materials.1,1,48.30432341381247,dimgray
+2014,Packaging Materials.6-Pack Holders,6-Pack Holders,0.2021336327905671,dimgray
+2014,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,30.988208871420554,dimgray
+2014,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",8.338012352610892,dimgray
+2014,Packaging Materials.Strapping Bands,Strapping Bands,4.581695676586187,dimgray
+2014,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,4.1942728804042675,dimgray
 2014,Personal Hygiene,Personal Hygiene,1.0387422796181922,orchid
-2014,Personal Hygiene.1,1,1.0387422796181922,Personal Hygiene.1
-2014,Personal Hygiene.Condoms,Condoms,0.24705221785513756,Personal Hygiene.Condoms
-2014,Personal Hygiene.Diapers,Diapers,0.3481190342504211,Personal Hygiene.Diapers
-2014,Personal Hygiene.Syringes,Syringes,0.291970802919708,Personal Hygiene.Syringes
-2014,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.15160022459292533,Personal Hygiene.Tampons / Tampon Applicators
+2014,Personal Hygiene.1,1,1.0387422796181922,orchid
+2014,Personal Hygiene.Condoms,Condoms,0.24705221785513756,orchid
+2014,Personal Hygiene.Diapers,Diapers,0.3481190342504211,orchid
+2014,Personal Hygiene.Syringes,Syringes,0.291970802919708,orchid
+2014,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.15160022459292533,orchid
 2014,Total Distance (Metres),Total Distance (Metres),17810.0,Total Distance (Metres)
 2015,Debris Summary,Debris Summary,105.57894736842105,maroon
 2015,Fishing Gear,Fishing Gear,4.473684210526316,deepskyblue
-2015,Fishing Gear.Fishing Buoys,Fishing Buoys,0.10526315789473684,Fishing Gear.Fishing Buoys
-2015,Fishing Gear.Fishing Gear,Fishing Gear,4.473684210526316,Fishing Gear.Fishing Gear
-2015,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,0.6842105263157895,Fishing Gear.Fishing Net & Pieces
-2015,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.1052631578947367,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2015,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),1.5789473684210527,Fishing Gear.Rope (1 Meter = 1 Piece)
+2015,Fishing Gear.Fishing Buoys,Fishing Buoys,0.10526315789473684,deepskyblue
+2015,Fishing Gear.Fishing Gear,Fishing Gear,4.473684210526316,deepskyblue
+2015,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,0.6842105263157895,deepskyblue
+2015,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.1052631578947367,deepskyblue
+2015,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),1.5789473684210527,deepskyblue
 2015,Items Of Local Concern,Items Of Local Concern,25.684210526315788,Items Of Local Concern
-2015,Items Of Local Concern.1,1,25.684210526315788,Items Of Local Concern.1
-2015,Items Of Local Concern.Foam Pieces,Foam Pieces,13.0,Items Of Local Concern.Foam Pieces
-2015,Items Of Local Concern.Plastic Pieces,Plastic Pieces,9.631578947368421,Items Of Local Concern.Plastic Pieces
-2015,Items Of Local Concern.Rubber Bands,Rubber Bands,1.3157894736842104,Items Of Local Concern.Rubber Bands
+2015,Items Of Local Concern.1,1,25.684210526315788,Items Of Local Concern
+2015,Items Of Local Concern.Foam Pieces,Foam Pieces,13.0,Items Of Local Concern
+2015,Items Of Local Concern.Plastic Pieces,Plastic Pieces,9.631578947368421,Items Of Local Concern
+2015,Items Of Local Concern.Rubber Bands,Rubber Bands,1.3157894736842104,Items Of Local Concern
 2015,Most Likely To Find Items,Most Likely To Find Items,67.94736842105263,Most Likely To Find Items
-2015,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),0.6842105263157895,Most Likely To Find Items.Beverage Bottles (Glass)
-2015,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),1.6842105263157894,Most Likely To Find Items.Beverage Bottles (Plastic)
-2015,Most Likely To Find Items.Beverage Cans,Beverage Cans,0.15789473684210525,Most Likely To Find Items.Beverage Cans
-2015,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),1.0526315789473684,Most Likely To Find Items.Bottle Caps (Metal)
-2015,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),8.0,Most Likely To Find Items.Bottle Caps (Plastic)
-2015,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,36.94736842105264,Most Likely To Find Items.Cigarette Butts
-2015,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),0.3684210526315789,Most Likely To Find Items.Cups & Plates (Foam)
-2015,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),0.42105263157894735,Most Likely To Find Items.Cups & Plates (Paper)
-2015,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),0.631578947368421,Most Likely To Find Items.Cups & Plates (Plastic)
-2015,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",5.894736842105263,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2015,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",1.3157894736842104,"Most Likely To Find Items.Forks, Knives, Spoons"
-2015,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),1.631578947368421,Most Likely To Find Items.Grocery Bags (Plastic)
-2015,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),1.3157894736842104,Most Likely To Find Items.Lids (Plastic)
-2015,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,1.8947368421052633,Most Likely To Find Items.Other Plastic Bags
-2015,Most Likely To Find Items.Paper Bags,Paper Bags,0.7894736842105263,Most Likely To Find Items.Paper Bags
-2015,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,4.2105263157894735,Most Likely To Find Items.Straws/Stirrers
-2015,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),0.7368421052631579,Most Likely To Find Items.Take Out Containers (Foam)
-2015,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),0.21052631578947367,Most Likely To Find Items.Take Out Containers (Plastic)
+2015,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),0.6842105263157895,Most Likely To Find Items
+2015,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),1.6842105263157894,Most Likely To Find Items
+2015,Most Likely To Find Items.Beverage Cans,Beverage Cans,0.15789473684210525,Most Likely To Find Items
+2015,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),1.0526315789473684,Most Likely To Find Items
+2015,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),8.0,Most Likely To Find Items
+2015,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,36.94736842105264,Most Likely To Find Items
+2015,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),0.3684210526315789,Most Likely To Find Items
+2015,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),0.42105263157894735,Most Likely To Find Items
+2015,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),0.631578947368421,Most Likely To Find Items
+2015,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",5.894736842105263,Most Likely To Find Items
+2015,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",1.3157894736842104,Most Likely To Find Items
+2015,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),1.631578947368421,Most Likely To Find Items
+2015,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),1.3157894736842104,Most Likely To Find Items
+2015,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,1.8947368421052633,Most Likely To Find Items
+2015,Most Likely To Find Items.Paper Bags,Paper Bags,0.7894736842105263,Most Likely To Find Items
+2015,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,4.2105263157894735,Most Likely To Find Items
+2015,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),0.7368421052631579,Most Likely To Find Items
+2015,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),0.21052631578947367,Most Likely To Find Items
 2015,Other Trash,Other Trash,4.157894736842105,silver
-2015,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.0,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2015,Other Trash.Balloons,Balloons,0.4736842105263158,Other Trash.Balloons
-2015,Other Trash.Cigar Tips,Cigar Tips,1.3157894736842104,Other Trash.Cigar Tips
-2015,Other Trash.Cigarette Lighters,Cigarette Lighters,0.9473684210526316,Other Trash.Cigarette Lighters
-2015,Other Trash.Fireworks,Fireworks,0.10526315789473684,Other Trash.Fireworks
-2015,Other Trash.Other Trash,Other Trash,4.157894736842105,Other Trash.Other Trash
-2015,Other Trash.Tyres,Tyres,0.05263157894736842,Other Trash.Tyres
+2015,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.0,silver
+2015,Other Trash.Balloons,Balloons,0.4736842105263158,silver
+2015,Other Trash.Cigar Tips,Cigar Tips,1.3157894736842104,silver
+2015,Other Trash.Cigarette Lighters,Cigarette Lighters,0.9473684210526316,silver
+2015,Other Trash.Fireworks,Fireworks,0.10526315789473684,silver
+2015,Other Trash.Other Trash,Other Trash,4.157894736842105,silver
+2015,Other Trash.Tyres,Tyres,0.05263157894736842,silver
 2015,Packaging Materials,Packaging Materials,2.9473684210526314,dimgray
-2015,Packaging Materials.1,1,2.9473684210526314,Packaging Materials.1
-2015,Packaging Materials.6-Pack Holders,6-Pack Holders,0.0,Packaging Materials.6-Pack Holders
-2015,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,1.3157894736842104,Packaging Materials.Other Plastic / Foam Packaging
-2015,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",0.05263157894736842,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2015,Packaging Materials.Strapping Bands,Strapping Bands,0.3684210526315789,Packaging Materials.Strapping Bands
-2015,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,1.2105263157894737,Packaging Materials.Tobacco Packaging / Wrappers
+2015,Packaging Materials.1,1,2.9473684210526314,dimgray
+2015,Packaging Materials.6-Pack Holders,6-Pack Holders,0.0,dimgray
+2015,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,1.3157894736842104,dimgray
+2015,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",0.05263157894736842,dimgray
+2015,Packaging Materials.Strapping Bands,Strapping Bands,0.3684210526315789,dimgray
+2015,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,1.2105263157894737,dimgray
 2015,Personal Hygiene,Personal Hygiene,0.3684210526315789,orchid
-2015,Personal Hygiene.1,1,0.3684210526315789,Personal Hygiene.1
-2015,Personal Hygiene.Condoms,Condoms,0.2631578947368421,Personal Hygiene.Condoms
-2015,Personal Hygiene.Diapers,Diapers,0.10526315789473684,Personal Hygiene.Diapers
-2015,Personal Hygiene.Syringes,Syringes,0.0,Personal Hygiene.Syringes
-2015,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.0,Personal Hygiene.Tampons / Tampon Applicators
+2015,Personal Hygiene.1,1,0.3684210526315789,orchid
+2015,Personal Hygiene.Condoms,Condoms,0.2631578947368421,orchid
+2015,Personal Hygiene.Diapers,Diapers,0.10526315789473684,orchid
+2015,Personal Hygiene.Syringes,Syringes,0.0,orchid
+2015,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.0,orchid
 2015,Total Distance (Metres),Total Distance (Metres),1900.0,Total Distance (Metres)
 2016,Debris Summary,Debris Summary,641.3460703430309,maroon
 2016,Fishing Gear,Fishing Gear,11.871471993052541,deepskyblue
-2016,Fishing Gear.Fishing Buoys,Fishing Buoys,0.851063829787234,Fishing Gear.Fishing Buoys
-2016,Fishing Gear.Fishing Gear,Fishing Gear,11.871471993052541,Fishing Gear.Fishing Gear
-2016,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,4.116369952236214,Fishing Gear.Fishing Net & Pieces
-2016,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.227529309596179,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2016,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),4.676508901432914,Fishing Gear.Rope (1 Meter = 1 Piece)
+2016,Fishing Gear.Fishing Buoys,Fishing Buoys,0.851063829787234,deepskyblue
+2016,Fishing Gear.Fishing Gear,Fishing Gear,11.871471993052541,deepskyblue
+2016,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,4.116369952236214,deepskyblue
+2016,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.227529309596179,deepskyblue
+2016,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),4.676508901432914,deepskyblue
 2016,Items Of Local Concern,Items Of Local Concern,184.86322188449847,Items Of Local Concern
-2016,Items Of Local Concern.1,1,184.86322188449847,Items Of Local Concern.1
-2016,Items Of Local Concern.Foam Pieces,Foam Pieces,120.72079895788102,Items Of Local Concern.Foam Pieces
-2016,Items Of Local Concern.Plastic Pieces,Plastic Pieces,52.97872340425533,Items Of Local Concern.Plastic Pieces
-2016,Items Of Local Concern.Rubber Bands,Rubber Bands,3.2045158488927488,Items Of Local Concern.Rubber Bands
+2016,Items Of Local Concern.1,1,184.86322188449847,Items Of Local Concern
+2016,Items Of Local Concern.Foam Pieces,Foam Pieces,120.72079895788102,Items Of Local Concern
+2016,Items Of Local Concern.Plastic Pieces,Plastic Pieces,52.97872340425533,Items Of Local Concern
+2016,Items Of Local Concern.Rubber Bands,Rubber Bands,3.2045158488927488,Items Of Local Concern
 2016,Most Likely To Find Items,Most Likely To Find Items,388.4237950499349,Most Likely To Find Items
-2016,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),5.5145462440295265,Most Likely To Find Items.Beverage Bottles (Glass)
-2016,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),112.57490230134609,Most Likely To Find Items.Beverage Bottles (Plastic)
-2016,Most Likely To Find Items.Beverage Cans,Beverage Cans,5.505861919235779,Most Likely To Find Items.Beverage Cans
-2016,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),3.556231003039514,Most Likely To Find Items.Bottle Caps (Metal)
-2016,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),20.44290056448111,Most Likely To Find Items.Bottle Caps (Plastic)
-2016,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,67.92878853669127,Most Likely To Find Items.Cigarette Butts
-2016,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),7.56838905775076,Most Likely To Find Items.Cups & Plates (Foam)
-2016,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),1.7325227963525838,Most Likely To Find Items.Cups & Plates (Paper)
-2016,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),20.46461137646548,Most Likely To Find Items.Cups & Plates (Plastic)
-2016,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",32.184107685627446,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2016,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",6.487190620929223,"Most Likely To Find Items.Forks, Knives, Spoons"
-2016,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),18.254450716456798,Most Likely To Find Items.Grocery Bags (Plastic)
-2016,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),5.557967867998263,Most Likely To Find Items.Lids (Plastic)
-2016,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,27.15154146765089,Most Likely To Find Items.Other Plastic Bags
-2016,Most Likely To Find Items.Paper Bags,Paper Bags,3.782023447676943,Most Likely To Find Items.Paper Bags
-2016,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,36.57837603126357,Most Likely To Find Items.Straws/Stirrers
-2016,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),5.931393834129397,Most Likely To Find Items.Take Out Containers (Foam)
-2016,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),7.207989578810247,Most Likely To Find Items.Take Out Containers (Plastic)
+2016,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),5.5145462440295265,Most Likely To Find Items
+2016,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),112.57490230134609,Most Likely To Find Items
+2016,Most Likely To Find Items.Beverage Cans,Beverage Cans,5.505861919235779,Most Likely To Find Items
+2016,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),3.556231003039514,Most Likely To Find Items
+2016,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),20.44290056448111,Most Likely To Find Items
+2016,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,67.92878853669127,Most Likely To Find Items
+2016,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),7.56838905775076,Most Likely To Find Items
+2016,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),1.7325227963525838,Most Likely To Find Items
+2016,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),20.46461137646548,Most Likely To Find Items
+2016,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",32.184107685627446,Most Likely To Find Items
+2016,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",6.487190620929223,Most Likely To Find Items
+2016,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),18.254450716456798,Most Likely To Find Items
+2016,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),5.557967867998263,Most Likely To Find Items
+2016,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,27.15154146765089,Most Likely To Find Items
+2016,Most Likely To Find Items.Paper Bags,Paper Bags,3.782023447676943,Most Likely To Find Items
+2016,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,36.57837603126357,Most Likely To Find Items
+2016,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),5.931393834129397,Most Likely To Find Items
+2016,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),7.207989578810247,Most Likely To Find Items
 2016,Other Trash,Other Trash,14.976118106817196,silver
-2016,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.4038211029092488,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2016,Other Trash.Balloons,Balloons,1.5501519756838906,Other Trash.Balloons
-2016,Other Trash.Cigar Tips,Cigar Tips,1.437255753365176,Other Trash.Cigar Tips
-2016,Other Trash.Cigarette Lighters,Cigarette Lighters,4.029526704298741,Other Trash.Cigarette Lighters
-2016,Other Trash.Fireworks,Fireworks,1.3200173686495875,Other Trash.Fireworks
-2016,Other Trash.Other Trash,Other Trash,14.976118106817196,Other Trash.Other Trash
-2016,Other Trash.Tyres,Tyres,0.5818497611810681,Other Trash.Tyres
+2016,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.4038211029092488,silver
+2016,Other Trash.Balloons,Balloons,1.5501519756838906,silver
+2016,Other Trash.Cigar Tips,Cigar Tips,1.437255753365176,silver
+2016,Other Trash.Cigarette Lighters,Cigarette Lighters,4.029526704298741,silver
+2016,Other Trash.Fireworks,Fireworks,1.3200173686495875,silver
+2016,Other Trash.Other Trash,Other Trash,14.976118106817196,silver
+2016,Other Trash.Tyres,Tyres,0.5818497611810681,silver
 2016,Packaging Materials,Packaging Materials,40.360399478940515,dimgray
-2016,Packaging Materials.1,1,40.360399478940515,Packaging Materials.1
-2016,Packaging Materials.6-Pack Holders,6-Pack Holders,0.1519756838905775,Packaging Materials.6-Pack Holders
-2016,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,22.032132001736866,Packaging Materials.Other Plastic / Foam Packaging
-2016,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",12.25358228397742,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2016,Packaging Materials.Strapping Bands,Strapping Bands,4.020842379504994,Packaging Materials.Strapping Bands
-2016,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,1.9018671298306558,Packaging Materials.Tobacco Packaging / Wrappers
+2016,Packaging Materials.1,1,40.360399478940515,dimgray
+2016,Packaging Materials.6-Pack Holders,6-Pack Holders,0.1519756838905775,dimgray
+2016,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,22.032132001736866,dimgray
+2016,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",12.25358228397742,dimgray
+2016,Packaging Materials.Strapping Bands,Strapping Bands,4.020842379504994,dimgray
+2016,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,1.9018671298306558,dimgray
 2016,Personal Hygiene,Personal Hygiene,0.851063829787234,orchid
-2016,Personal Hygiene.1,1,0.851063829787234,Personal Hygiene.1
-2016,Personal Hygiene.Condoms,Condoms,0.21710811984368217,Personal Hygiene.Condoms
-2016,Personal Hygiene.Diapers,Diapers,0.22579244463742945,Personal Hygiene.Diapers
-2016,Personal Hygiene.Syringes,Syringes,0.1606600086843248,Personal Hygiene.Syringes
-2016,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.24750325662179765,Personal Hygiene.Tampons / Tampon Applicators
+2016,Personal Hygiene.1,1,0.851063829787234,orchid
+2016,Personal Hygiene.Condoms,Condoms,0.21710811984368217,orchid
+2016,Personal Hygiene.Diapers,Diapers,0.22579244463742945,orchid
+2016,Personal Hygiene.Syringes,Syringes,0.1606600086843248,orchid
+2016,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.24750325662179765,orchid
 2016,Total Distance (Metres),Total Distance (Metres),23030.0,Total Distance (Metres)
 2017,Debris Summary,Debris Summary,907.1870537839125,maroon
 2017,Fishing Gear,Fishing Gear,12.53212755830557,deepskyblue
-2017,Fishing Gear.Fishing Buoys,Fishing Buoys,0.5901951451689672,Fishing Gear.Fishing Buoys
-2017,Fishing Gear.Fishing Gear,Fishing Gear,12.53212755830557,Fishing Gear.Fishing Gear
-2017,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,3.2841504045692527,Fishing Gear.Fishing Net & Pieces
-2017,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.284626368396002,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2017,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),6.373155640171348,Fishing Gear.Rope (1 Meter = 1 Piece)
+2017,Fishing Gear.Fishing Buoys,Fishing Buoys,0.5901951451689672,deepskyblue
+2017,Fishing Gear.Fishing Gear,Fishing Gear,12.53212755830557,deepskyblue
+2017,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,3.2841504045692527,deepskyblue
+2017,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.284626368396002,deepskyblue
+2017,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),6.373155640171348,deepskyblue
 2017,Items Of Local Concern,Items Of Local Concern,350.0713945740124,Items Of Local Concern
-2017,Items Of Local Concern.1,1,350.0713945740124,Items Of Local Concern.1
-2017,Items Of Local Concern.Foam Pieces,Foam Pieces,258.11042360780584,Items Of Local Concern.Foam Pieces
-2017,Items Of Local Concern.Plastic Pieces,Plastic Pieces,75.61161351737267,Items Of Local Concern.Plastic Pieces
-2017,Items Of Local Concern.Rubber Bands,Rubber Bands,5.52594002855783,Items Of Local Concern.Rubber Bands
+2017,Items Of Local Concern.1,1,350.0713945740124,Items Of Local Concern
+2017,Items Of Local Concern.Foam Pieces,Foam Pieces,258.11042360780584,Items Of Local Concern
+2017,Items Of Local Concern.Plastic Pieces,Plastic Pieces,75.61161351737267,Items Of Local Concern
+2017,Items Of Local Concern.Rubber Bands,Rubber Bands,5.52594002855783,Items Of Local Concern
 2017,Most Likely To Find Items,Most Likely To Find Items,480.1618277010947,Most Likely To Find Items
-2017,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),8.810090433127083,Most Likely To Find Items.Beverage Bottles (Glass)
-2017,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),87.16801523084246,Most Likely To Find Items.Beverage Bottles (Plastic)
-2017,Most Likely To Find Items.Beverage Cans,Beverage Cans,7.129938124702523,Most Likely To Find Items.Beverage Cans
-2017,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),4.079009995240361,Most Likely To Find Items.Bottle Caps (Metal)
-2017,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),29.909566872917658,Most Likely To Find Items.Bottle Caps (Plastic)
-2017,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,82.12755830556878,Most Likely To Find Items.Cigarette Butts
-2017,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),12.018086625416469,Most Likely To Find Items.Cups & Plates (Foam)
-2017,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),3.479295573536411,Most Likely To Find Items.Cups & Plates (Paper)
-2017,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),30.471204188481675,Most Likely To Find Items.Cups & Plates (Plastic)
-2017,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",41.361256544502616,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2017,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",9.647786768205616,"Most Likely To Find Items.Forks, Knives, Spoons"
-2017,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),21.37553545930509,Most Likely To Find Items.Grocery Bags (Plastic)
-2017,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),8.381722989052832,Most Likely To Find Items.Lids (Plastic)
-2017,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,38.324607329842934,Most Likely To Find Items.Other Plastic Bags
-2017,Most Likely To Find Items.Paper Bags,Paper Bags,3.507853403141361,Most Likely To Find Items.Paper Bags
-2017,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,66.66825321275583,Most Likely To Find Items.Straws/Stirrers
-2017,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),11.570680628272251,Most Likely To Find Items.Take Out Containers (Foam)
-2017,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),14.13136601618277,Most Likely To Find Items.Take Out Containers (Plastic)
+2017,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),8.810090433127083,Most Likely To Find Items
+2017,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),87.16801523084246,Most Likely To Find Items
+2017,Most Likely To Find Items.Beverage Cans,Beverage Cans,7.129938124702523,Most Likely To Find Items
+2017,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),4.079009995240361,Most Likely To Find Items
+2017,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),29.909566872917658,Most Likely To Find Items
+2017,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,82.12755830556878,Most Likely To Find Items
+2017,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),12.018086625416469,Most Likely To Find Items
+2017,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),3.479295573536411,Most Likely To Find Items
+2017,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),30.471204188481675,Most Likely To Find Items
+2017,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",41.361256544502616,Most Likely To Find Items
+2017,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",9.647786768205616,Most Likely To Find Items
+2017,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),21.37553545930509,Most Likely To Find Items
+2017,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),8.381722989052832,Most Likely To Find Items
+2017,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,38.324607329842934,Most Likely To Find Items
+2017,Most Likely To Find Items.Paper Bags,Paper Bags,3.507853403141361,Most Likely To Find Items
+2017,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,66.66825321275583,Most Likely To Find Items
+2017,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),11.570680628272251,Most Likely To Find Items
+2017,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),14.13136601618277,Most Likely To Find Items
 2017,Other Trash,Other Trash,15.768681580199907,silver
-2017,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.49024274155164205,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2017,Other Trash.Balloons,Balloons,1.4231318419800096,Other Trash.Balloons
-2017,Other Trash.Cigar Tips,Cigar Tips,3.303188957639219,Other Trash.Cigar Tips
-2017,Other Trash.Cigarette Lighters,Cigarette Lighters,5.116611137553546,Other Trash.Cigarette Lighters
-2017,Other Trash.Fireworks,Fireworks,0.18562589243217514,Other Trash.Fireworks
-2017,Other Trash.Other Trash,Other Trash,15.768681580199907,Other Trash.Other Trash
-2017,Other Trash.Tyres,Tyres,0.433127082341742,Other Trash.Tyres
+2017,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.49024274155164205,silver
+2017,Other Trash.Balloons,Balloons,1.4231318419800096,silver
+2017,Other Trash.Cigar Tips,Cigar Tips,3.303188957639219,silver
+2017,Other Trash.Cigarette Lighters,Cigarette Lighters,5.116611137553546,silver
+2017,Other Trash.Fireworks,Fireworks,0.18562589243217514,silver
+2017,Other Trash.Other Trash,Other Trash,15.768681580199907,silver
+2017,Other Trash.Tyres,Tyres,0.433127082341742,silver
 2017,Packaging Materials,Packaging Materials,47.59162303664922,dimgray
-2017,Packaging Materials.1,1,47.59162303664922,Packaging Materials.1
-2017,Packaging Materials.6-Pack Holders,6-Pack Holders,0.2903379343169919,Packaging Materials.6-Pack Holders
-2017,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,33.63636363636363,Packaging Materials.Other Plastic / Foam Packaging
-2017,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",7.358400761542123,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2017,Packaging Materials.Strapping Bands,Strapping Bands,4.026653974297954,Packaging Materials.Strapping Bands
-2017,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,2.2798667301285103,Packaging Materials.Tobacco Packaging / Wrappers
+2017,Packaging Materials.1,1,47.59162303664922,dimgray
+2017,Packaging Materials.6-Pack Holders,6-Pack Holders,0.2903379343169919,dimgray
+2017,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,33.63636363636363,dimgray
+2017,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",7.358400761542123,dimgray
+2017,Packaging Materials.Strapping Bands,Strapping Bands,4.026653974297954,dimgray
+2017,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,2.2798667301285103,dimgray
 2017,Personal Hygiene,Personal Hygiene,1.0613993336506427,orchid
-2017,Personal Hygiene.1,1,1.0613993336506427,Personal Hygiene.1
-2017,Personal Hygiene.Condoms,Condoms,0.1951451689671585,Personal Hygiene.Condoms
-2017,Personal Hygiene.Diapers,Diapers,0.2760590195145169,Personal Hygiene.Diapers
-2017,Personal Hygiene.Syringes,Syringes,0.2760590195145169,Personal Hygiene.Syringes
-2017,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.31413612565445026,Personal Hygiene.Tampons / Tampon Applicators
+2017,Personal Hygiene.1,1,1.0613993336506427,orchid
+2017,Personal Hygiene.Condoms,Condoms,0.1951451689671585,orchid
+2017,Personal Hygiene.Diapers,Diapers,0.2760590195145169,orchid
+2017,Personal Hygiene.Syringes,Syringes,0.2760590195145169,orchid
+2017,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.31413612565445026,orchid
 2017,Total Distance (Metres),Total Distance (Metres),21010.0,Total Distance (Metres)
 2018,Debris Summary,Debris Summary,784.6084382681985,maroon
 2018,Fishing Gear,Fishing Gear,10.073747052626299,deepskyblue
-2018,Fishing Gear.Fishing Buoys,Fishing Buoys,0.5016806301108714,Fishing Gear.Fishing Buoys
-2018,Fishing Gear.Fishing Gear,Fishing Gear,10.073747052626299,Fishing Gear.Fishing Gear
-2018,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,2.9197812672452716,Fishing Gear.Fishing Net & Pieces
-2018,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.2726132544022475,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2018,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),4.3796719008679075,Fishing Gear.Rope (1 Meter = 1 Piece)
+2018,Fishing Gear.Fishing Buoys,Fishing Buoys,0.5016806301108714,deepskyblue
+2018,Fishing Gear.Fishing Gear,Fishing Gear,10.073747052626299,deepskyblue
+2018,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,2.9197812672452716,deepskyblue
+2018,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.2726132544022475,deepskyblue
+2018,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),4.3796719008679075,deepskyblue
 2018,Items Of Local Concern,Items Of Local Concern,294.72231977123363,Items Of Local Concern
-2018,Items Of Local Concern.1,1,294.72231977123363,Items Of Local Concern.1
-2018,Items Of Local Concern.Foam Pieces,Foam Pieces,203.82782320774595,Items Of Local Concern.Foam Pieces
-2018,Items Of Local Concern.Plastic Pieces,Plastic Pieces,78.02638840114383,Items Of Local Concern.Plastic Pieces
-2018,Items Of Local Concern.Rubber Bands,Rubber Bands,5.633873476145086,Items Of Local Concern.Rubber Bands
+2018,Items Of Local Concern.1,1,294.72231977123363,Items Of Local Concern
+2018,Items Of Local Concern.Foam Pieces,Foam Pieces,203.82782320774595,Items Of Local Concern
+2018,Items Of Local Concern.Plastic Pieces,Plastic Pieces,78.02638840114383,Items Of Local Concern
+2018,Items Of Local Concern.Rubber Bands,Rubber Bands,5.633873476145086,Items Of Local Concern
 2018,Most Likely To Find Items,Most Likely To Find Items,419.4050067726885,Most Likely To Find Items
-2018,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),0.0,Most Likely To Find Items.Beverage Bottles (Glass)
-2018,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),0.0,Most Likely To Find Items.Beverage Bottles (Plastic)
-2018,Most Likely To Find Items.Beverage Cans,Beverage Cans,0.0,Most Likely To Find Items.Beverage Cans
-2018,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),3.1003862940851854,Most Likely To Find Items.Bottle Caps (Metal)
-2018,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),28.68108162343852,Most Likely To Find Items.Bottle Caps (Plastic)
-2018,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,100.85285707118847,Most Likely To Find Items.Cigarette Butts
-2018,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),0.0,Most Likely To Find Items.Cups & Plates (Foam)
-2018,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),0.0,Most Likely To Find Items.Cups & Plates (Paper)
-2018,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),0.0,Most Likely To Find Items.Cups & Plates (Plastic)
-2018,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",43.46059298650479,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2018,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",7.369688456328702,"Most Likely To Find Items.Forks, Knives, Spoons"
-2018,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),0.0,Most Likely To Find Items.Grocery Bags (Plastic)
-2018,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),7.394772487834245,Most Likely To Find Items.Lids (Plastic)
-2018,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,0.0,Most Likely To Find Items.Other Plastic Bags
-2018,Most Likely To Find Items.Paper Bags,Paper Bags,0.0,Most Likely To Find Items.Paper Bags
-2018,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,53.810264385692065,Most Likely To Find Items.Straws/Stirrers
-2018,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),7.816184217127377,Most Likely To Find Items.Take Out Containers (Foam)
-2018,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),8.408167360658204,Most Likely To Find Items.Take Out Containers (Plastic)
+2018,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Beverage Cans,Beverage Cans,0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),3.1003862940851854,Most Likely To Find Items
+2018,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),28.68108162343852,Most Likely To Find Items
+2018,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,100.85285707118847,Most Likely To Find Items
+2018,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),0.0,Most Likely To Find Items
+2018,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",43.46059298650479,Most Likely To Find Items
+2018,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",7.369688456328702,Most Likely To Find Items
+2018,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),7.394772487834245,Most Likely To Find Items
+2018,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Paper Bags,Paper Bags,0.0,Most Likely To Find Items
+2018,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,53.810264385692065,Most Likely To Find Items
+2018,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),7.816184217127377,Most Likely To Find Items
+2018,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),8.408167360658204,Most Likely To Find Items
 2018,Other Trash,Other Trash,14.097225706115488,silver
-2018,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.526764661616415,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2018,Other Trash.Balloons,Balloons,1.279285606782722,Other Trash.Balloons
-2018,Other Trash.Cigar Tips,Cigar Tips,3.5920333115938394,Other Trash.Cigar Tips
-2018,Other Trash.Cigarette Lighters,Cigarette Lighters,4.118797973210254,Other Trash.Cigarette Lighters
-2018,Other Trash.Fireworks,Fireworks,0.456529373400893,Other Trash.Fireworks
-2018,Other Trash.Other Trash,Other Trash,14.097225706115488,Other Trash.Other Trash
-2018,Other Trash.Tyres,Tyres,0.3913108914864797,Other Trash.Tyres
+2018,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.526764661616415,silver
+2018,Other Trash.Balloons,Balloons,1.279285606782722,silver
+2018,Other Trash.Cigar Tips,Cigar Tips,3.5920333115938394,silver
+2018,Other Trash.Cigarette Lighters,Cigarette Lighters,4.118797973210254,silver
+2018,Other Trash.Fireworks,Fireworks,0.456529373400893,silver
+2018,Other Trash.Other Trash,Other Trash,14.097225706115488,silver
+2018,Other Trash.Tyres,Tyres,0.3913108914864797,silver
 2018,Packaging Materials,Packaging Materials,45.57266843927156,dimgray
-2018,Packaging Materials.1,1,45.57266843927156,Packaging Materials.1
-2018,Packaging Materials.6-Pack Holders,6-Pack Holders,0.24582350875432699,Packaging Materials.6-Pack Holders
-2018,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,32.0072242010736,Packaging Materials.Other Plastic / Foam Packaging
-2018,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",6.4867305473335675,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2018,Packaging Materials.Strapping Bands,Strapping Bands,3.9983946219836453,Packaging Materials.Strapping Bands
-2018,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,2.8344955601264235,Packaging Materials.Tobacco Packaging / Wrappers
+2018,Packaging Materials.1,1,45.57266843927156,dimgray
+2018,Packaging Materials.6-Pack Holders,6-Pack Holders,0.24582350875432699,dimgray
+2018,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,32.0072242010736,dimgray
+2018,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",6.4867305473335675,dimgray
+2018,Packaging Materials.Strapping Bands,Strapping Bands,3.9983946219836453,dimgray
+2018,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,2.8344955601264235,dimgray
 2018,Personal Hygiene,Personal Hygiene,0.737470526262981,orchid
-2018,Personal Hygiene.1,1,0.737470526262981,Personal Hygiene.1
-2018,Personal Hygiene.Condoms,Condoms,0.19565544574323984,Personal Hygiene.Condoms
-2018,Personal Hygiene.Diapers,Diapers,0.20067225204434855,Personal Hygiene.Diapers
-2018,Personal Hygiene.Syringes,Syringes,0.22073947724878343,Personal Hygiene.Syringes
-2018,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.12040335122660915,Personal Hygiene.Tampons / Tampon Applicators
+2018,Personal Hygiene.1,1,0.737470526262981,orchid
+2018,Personal Hygiene.Condoms,Condoms,0.19565544574323984,orchid
+2018,Personal Hygiene.Diapers,Diapers,0.20067225204434855,orchid
+2018,Personal Hygiene.Syringes,Syringes,0.22073947724878343,orchid
+2018,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.12040335122660915,orchid
 2018,Total Distance (Metres),Total Distance (Metres),19933.0,Total Distance (Metres)
 2019,Debris Summary,Debris Summary,723.7278320665943,maroon
 2019,Fishing Gear,Fishing Gear,12.370611653999276,deepskyblue
-2019,Fishing Gear.Fishing Buoys,Fishing Buoys,0.47774158523344196,Fishing Gear.Fishing Buoys
-2019,Fishing Gear.Fishing Gear,Fishing Gear,12.370611653999276,Fishing Gear.Fishing Gear
-2019,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,1.860296778863554,Fishing Gear.Fishing Net & Pieces
-2019,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.2873688020267826,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece)
-2019,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),7.745204487875498,Fishing Gear.Rope (1 Meter = 1 Piece)
+2019,Fishing Gear.Fishing Buoys,Fishing Buoys,0.47774158523344196,deepskyblue
+2019,Fishing Gear.Fishing Gear,Fishing Gear,12.370611653999276,deepskyblue
+2019,Fishing Gear.Fishing Net & Pieces,Fishing Net & Pieces,1.860296778863554,deepskyblue
+2019,Fishing Gear.Fishing Line ( 1 Meter = 1 Piece),Fishing Line ( 1 Meter = 1 Piece),2.2873688020267826,deepskyblue
+2019,Fishing Gear.Rope (1 Meter = 1 Piece),Rope (1 Meter = 1 Piece),7.745204487875498,deepskyblue
 2019,Items Of Local Concern,Items Of Local Concern,272.3199420919291,Items Of Local Concern
-2019,Items Of Local Concern.1,1,272.3199420919291,Items Of Local Concern.1
-2019,Items Of Local Concern.Foam Pieces,Foam Pieces,170.23525153818312,Items Of Local Concern.Foam Pieces
-2019,Items Of Local Concern.Plastic Pieces,Plastic Pieces,92.80492218602969,Items Of Local Concern.Plastic Pieces
-2019,Items Of Local Concern.Rubber Bands,Rubber Bands,3.8002171552660156,Items Of Local Concern.Rubber Bands
+2019,Items Of Local Concern.1,1,272.3199420919291,Items Of Local Concern
+2019,Items Of Local Concern.Foam Pieces,Foam Pieces,170.23525153818312,Items Of Local Concern
+2019,Items Of Local Concern.Plastic Pieces,Plastic Pieces,92.80492218602969,Items Of Local Concern
+2019,Items Of Local Concern.Rubber Bands,Rubber Bands,3.8002171552660156,Items Of Local Concern
 2019,Most Likely To Find Items,Most Likely To Find Items,391.73362287368803,Most Likely To Find Items
-2019,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),5.515743756786102,Most Likely To Find Items.Beverage Bottles (Glass)
-2019,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),77.81397032211365,Most Likely To Find Items.Beverage Bottles (Plastic)
-2019,Most Likely To Find Items.Beverage Cans,Beverage Cans,4.357582338038364,Most Likely To Find Items.Beverage Cans
-2019,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),2.417661961635903,Most Likely To Find Items.Bottle Caps (Metal)
-2019,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),31.791530944625407,Most Likely To Find Items.Bottle Caps (Plastic)
-2019,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,59.44263481722765,Most Likely To Find Items.Cigarette Butts
-2019,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),5.479551212450235,Most Likely To Find Items.Cups & Plates (Foam)
-2019,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),2.4683315237061167,Most Likely To Find Items.Cups & Plates (Paper)
-2019,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),19.753890698516106,Most Likely To Find Items.Cups & Plates (Plastic)
-2019,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",34.55664133188563,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)"
-2019,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",9.656170828809266,"Most Likely To Find Items.Forks, Knives, Spoons"
-2019,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),19.03003981179877,Most Likely To Find Items.Grocery Bags (Plastic)
-2019,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),6.666666666666667,Most Likely To Find Items.Lids (Plastic)
-2019,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,32.76872964169381,Most Likely To Find Items.Other Plastic Bags
-2019,Most Likely To Find Items.Paper Bags,Paper Bags,1.5128483532392327,Most Likely To Find Items.Paper Bags
-2019,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,50.358306188925084,Most Likely To Find Items.Straws/Stirrers
-2019,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),10.488599348534201,Most Likely To Find Items.Take Out Containers (Foam)
-2019,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),17.654723127035833,Most Likely To Find Items.Take Out Containers (Plastic)
+2019,Most Likely To Find Items.Beverage Bottles (Glass),Beverage Bottles (Glass),5.515743756786102,Most Likely To Find Items
+2019,Most Likely To Find Items.Beverage Bottles (Plastic),Beverage Bottles (Plastic),77.81397032211365,Most Likely To Find Items
+2019,Most Likely To Find Items.Beverage Cans,Beverage Cans,4.357582338038364,Most Likely To Find Items
+2019,Most Likely To Find Items.Bottle Caps (Metal),Bottle Caps (Metal),2.417661961635903,Most Likely To Find Items
+2019,Most Likely To Find Items.Bottle Caps (Plastic),Bottle Caps (Plastic),31.791530944625407,Most Likely To Find Items
+2019,Most Likely To Find Items.Cigarette Butts,Cigarette Butts,59.44263481722765,Most Likely To Find Items
+2019,Most Likely To Find Items.Cups & Plates (Foam),Cups & Plates (Foam),5.479551212450235,Most Likely To Find Items
+2019,Most Likely To Find Items.Cups & Plates (Paper),Cups & Plates (Paper),2.4683315237061167,Most Likely To Find Items
+2019,Most Likely To Find Items.Cups & Plates (Plastic),Cups & Plates (Plastic),19.753890698516106,Most Likely To Find Items
+2019,"Most Likely To Find Items.Food Wrappers (Candy, Chips, Etc)","Food Wrappers (Candy, Chips, Etc)",34.55664133188563,Most Likely To Find Items
+2019,"Most Likely To Find Items.Forks, Knives, Spoons","Forks, Knives, Spoons",9.656170828809266,Most Likely To Find Items
+2019,Most Likely To Find Items.Grocery Bags (Plastic),Grocery Bags (Plastic),19.03003981179877,Most Likely To Find Items
+2019,Most Likely To Find Items.Lids (Plastic),Lids (Plastic),6.666666666666667,Most Likely To Find Items
+2019,Most Likely To Find Items.Other Plastic Bags,Other Plastic Bags,32.76872964169381,Most Likely To Find Items
+2019,Most Likely To Find Items.Paper Bags,Paper Bags,1.5128483532392327,Most Likely To Find Items
+2019,Most Likely To Find Items.Straws/Stirrers,Straws/Stirrers,50.358306188925084,Most Likely To Find Items
+2019,Most Likely To Find Items.Take Out Containers (Foam),Take Out Containers (Foam),10.488599348534201,Most Likely To Find Items
+2019,Most Likely To Find Items.Take Out Containers (Plastic),Take Out Containers (Plastic),17.654723127035833,Most Likely To Find Items
 2019,Other Trash,Other Trash,11.357220412595005,silver
-2019,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.7962359753890699,"Other Trash.Appliances (Fridges, Washers, Etc)"
-2019,Other Trash.Balloons,Balloons,0.9916757148027507,Other Trash.Balloons
-2019,Other Trash.Cigar Tips,Cigar Tips,0.9120521172638436,Other Trash.Cigar Tips
-2019,Other Trash.Cigarette Lighters,Cigarette Lighters,4.7774158523344195,Other Trash.Cigarette Lighters
-2019,Other Trash.Fireworks,Fireworks,0.6152732537097358,Other Trash.Fireworks
-2019,Other Trash.Other Trash,Other Trash,11.357220412595005,Other Trash.Other Trash
-2019,Other Trash.Tyres,Tyres,0.9916757148027507,Other Trash.Tyres
+2019,"Other Trash.Appliances (Fridges, Washers, Etc)","Appliances (Fridges, Washers, Etc)",0.7962359753890699,silver
+2019,Other Trash.Balloons,Balloons,0.9916757148027507,silver
+2019,Other Trash.Cigar Tips,Cigar Tips,0.9120521172638436,silver
+2019,Other Trash.Cigarette Lighters,Cigarette Lighters,4.7774158523344195,silver
+2019,Other Trash.Fireworks,Fireworks,0.6152732537097358,silver
+2019,Other Trash.Other Trash,Other Trash,11.357220412595005,silver
+2019,Other Trash.Tyres,Tyres,0.9916757148027507,silver
 2019,Packaging Materials,Packaging Materials,35.215345638798404,dimgray
-2019,Packaging Materials.1,1,35.215345638798404,Packaging Materials.1
-2019,Packaging Materials.6-Pack Holders,6-Pack Holders,0.22439377488237422,Packaging Materials.6-Pack Holders
-2019,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,20.267824828085416,Packaging Materials.Other Plastic / Foam Packaging
-2019,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",7.455664133188564,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)"
-2019,Packaging Materials.Strapping Bands,Strapping Bands,4.15490408975751,Packaging Materials.Strapping Bands
-2019,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,3.112558812884546,Packaging Materials.Tobacco Packaging / Wrappers
+2019,Packaging Materials.1,1,35.215345638798404,dimgray
+2019,Packaging Materials.6-Pack Holders,6-Pack Holders,0.22439377488237422,dimgray
+2019,Packaging Materials.Other Plastic / Foam Packaging,Other Plastic / Foam Packaging,20.267824828085416,dimgray
+2019,"Packaging Materials.Other Plastic Bottles (Oil, Bleach, Etc)","Other Plastic Bottles (Oil, Bleach, Etc)",7.455664133188564,dimgray
+2019,Packaging Materials.Strapping Bands,Strapping Bands,4.15490408975751,dimgray
+2019,Packaging Materials.Tobacco Packaging / Wrappers,Tobacco Packaging / Wrappers,3.112558812884546,dimgray
 2019,Personal Hygiene,Personal Hygiene,0.7310893955845096,orchid
-2019,Personal Hygiene.1,1,0.7310893955845096,Personal Hygiene.1
-2019,Personal Hygiene.Condoms,Condoms,0.17372421281216072,Personal Hygiene.Condoms
-2019,Personal Hygiene.Diapers,Diapers,0.24610930148389432,Personal Hygiene.Diapers
-2019,Personal Hygiene.Syringes,Syringes,0.24610930148389432,Personal Hygiene.Syringes
-2019,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.06514657980456026,Personal Hygiene.Tampons / Tampon Applicators
+2019,Personal Hygiene.1,1,0.7310893955845096,orchid
+2019,Personal Hygiene.Condoms,Condoms,0.17372421281216072,orchid
+2019,Personal Hygiene.Diapers,Diapers,0.24610930148389432,orchid
+2019,Personal Hygiene.Syringes,Syringes,0.24610930148389432,orchid
+2019,Personal Hygiene.Tampons / Tampon Applicators,Tampons / Tampon Applicators,0.06514657980456026,orchid
 2019,Total Distance (Metres),Total Distance (Metres),13815.0,Total Distance (Metres)
