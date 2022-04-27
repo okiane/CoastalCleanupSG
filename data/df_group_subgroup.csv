@@ -1,15 +1,11 @@
 Year,parent_id,id,value,colour
-2014,Debris Summary,Debris Summary,923.8293094,maroon
-2014,Fishing Gear,Fishing Gear,19.18585065,deepskyblue
 2014,Fishing Gear,Fishing Buoys,0.954519933,deepskyblue
 2014,Fishing Gear,Fishing Net & Pieces,4.008983717,deepskyblue
 2014,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),5.154407636,deepskyblue
 2014,Fishing Gear,Rope (1 Meter = 1 Piece),9.06793936,deepskyblue
-2014,Items Of Local Concern,Items Of Local Concern,286.3391353,Items Of Local Concern
 2014,Items Of Local Concern,Foam Pieces,167.1083661,Items Of Local Concern
 2014,Items Of Local Concern,Plastic Pieces,73.58225716,Items Of Local Concern
 2014,Items Of Local Concern,Rubber Bands,5.367770915,Items Of Local Concern
-2014,Most Likely To Find Items,Most Likely To Find Items,552.6221224,Most Likely To Find Items
 2014,Most Likely To Find Items,Beverage Bottles (Glass),10.92644582,Most Likely To Find Items
 2014,Most Likely To Find Items,Beverage Bottles (Plastic),105.8955643,Most Likely To Find Items
 2014,Most Likely To Find Items,Beverage Cans,11.45985401,Most Likely To Find Items
@@ -28,36 +24,28 @@ Year,parent_id,id,value,colour
 2014,Most Likely To Find Items,Straws/Stirrers,49.69679955,Most Likely To Find Items
 2014,Most Likely To Find Items,Take Out Containers (Foam),22.08309938,Most Likely To Find Items
 2014,Most Likely To Find Items,Take Out Containers (Plastic),20.94329029,Most Likely To Find Items
-2014,Other Trash,Other Trash,16.33913532,silver
 2014,Other Trash,"Appliances (Fridges, Washers, Etc)",0.93206064,silver
 2014,Other Trash,Balloons,0.66254913,silver
 2014,Other Trash,Cigar Tips,1.858506457,silver
 2014,Other Trash,Cigarette Lighters,5.918023582,silver
 2014,Other Trash,Fireworks,0.303200449,silver
 2014,Other Trash,Tyres,1.027512633,silver
-2014,Packaging Materials,Packaging Materials,48.30432341,dimgray
 2014,Packaging Materials,6-Pack Holders,0.202133633,dimgray
 2014,Packaging Materials,Other Plastic / Foam Packaging,30.98820887,dimgray
 2014,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",8.338012353,dimgray
 2014,Packaging Materials,Strapping Bands,4.581695677,dimgray
 2014,Packaging Materials,Tobacco Packaging / Wrappers,4.19427288,dimgray
-2014,Personal Hygiene,Personal Hygiene,1.03874228,orchid
 2014,Personal Hygiene,Condoms,0.247052218,orchid
 2014,Personal Hygiene,Diapers,0.348119034,orchid
 2014,Personal Hygiene,Syringes,0.291970803,orchid
 2014,Personal Hygiene,Tampons / Tampon Applicators,0.151600225,orchid
-2014,Total Distance (Metres),Total Distance (Metres),17810,Total Distance (Metres)
-2015,Debris Summary,Debris Summary,105.5789474,maroon
-2015,Fishing Gear,Fishing Gear,4.473684211,deepskyblue
 2015,Fishing Gear,Fishing Buoys,0.105263158,deepskyblue
 2015,Fishing Gear,Fishing Net & Pieces,0.684210526,deepskyblue
 2015,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),2.105263158,deepskyblue
 2015,Fishing Gear,Rope (1 Meter = 1 Piece),1.578947368,deepskyblue
-2015,Items Of Local Concern,Items Of Local Concern,25.68421053,Items Of Local Concern
 2015,Items Of Local Concern,Foam Pieces,13,Items Of Local Concern
 2015,Items Of Local Concern,Plastic Pieces,9.631578947,Items Of Local Concern
 2015,Items Of Local Concern,Rubber Bands,1.315789474,Items Of Local Concern
-2015,Most Likely To Find Items,Most Likely To Find Items,67.94736842,Most Likely To Find Items
 2015,Most Likely To Find Items,Beverage Bottles (Glass),0.684210526,Most Likely To Find Items
 2015,Most Likely To Find Items,Beverage Bottles (Plastic),1.684210526,Most Likely To Find Items
 2015,Most Likely To Find Items,Beverage Cans,0.157894737,Most Likely To Find Items
@@ -76,36 +64,28 @@ Year,parent_id,id,value,colour
 2015,Most Likely To Find Items,Straws/Stirrers,4.210526316,Most Likely To Find Items
 2015,Most Likely To Find Items,Take Out Containers (Foam),0.736842105,Most Likely To Find Items
 2015,Most Likely To Find Items,Take Out Containers (Plastic),0.210526316,Most Likely To Find Items
-2015,Other Trash,Other Trash,4.157894737,silver
 2015,Other Trash,"Appliances (Fridges, Washers, Etc)",0,silver
 2015,Other Trash,Balloons,0.473684211,silver
 2015,Other Trash,Cigar Tips,1.315789474,silver
 2015,Other Trash,Cigarette Lighters,0.947368421,silver
 2015,Other Trash,Fireworks,0.105263158,silver
 2015,Other Trash,Tyres,0.052631579,silver
-2015,Packaging Materials,Packaging Materials,2.947368421,dimgray
 2015,Packaging Materials,6-Pack Holders,0,dimgray
 2015,Packaging Materials,Other Plastic / Foam Packaging,1.315789474,dimgray
 2015,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",0.052631579,dimgray
 2015,Packaging Materials,Strapping Bands,0.368421053,dimgray
 2015,Packaging Materials,Tobacco Packaging / Wrappers,1.210526316,dimgray
-2015,Personal Hygiene,Personal Hygiene,0.368421053,orchid
 2015,Personal Hygiene,Condoms,0.263157895,orchid
 2015,Personal Hygiene,Diapers,0.105263158,orchid
 2015,Personal Hygiene,Syringes,0,orchid
 2015,Personal Hygiene,Tampons / Tampon Applicators,0,orchid
-2015,Total Distance (Metres),Total Distance (Metres),1900,Total Distance (Metres)
-2016,Debris Summary,Debris Summary,641.3460703,maroon
-2016,Fishing Gear,Fishing Gear,11.87147199,deepskyblue
 2016,Fishing Gear,Fishing Buoys,0.85106383,deepskyblue
 2016,Fishing Gear,Fishing Net & Pieces,4.116369952,deepskyblue
 2016,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),2.22752931,deepskyblue
 2016,Fishing Gear,Rope (1 Meter = 1 Piece),4.676508901,deepskyblue
-2016,Items Of Local Concern,Items Of Local Concern,184.8632219,Items Of Local Concern
 2016,Items Of Local Concern,Foam Pieces,120.720799,Items Of Local Concern
 2016,Items Of Local Concern,Plastic Pieces,52.9787234,Items Of Local Concern
 2016,Items Of Local Concern,Rubber Bands,3.204515849,Items Of Local Concern
-2016,Most Likely To Find Items,Most Likely To Find Items,388.423795,Most Likely To Find Items
 2016,Most Likely To Find Items,Beverage Bottles (Glass),5.514546244,Most Likely To Find Items
 2016,Most Likely To Find Items,Beverage Bottles (Plastic),112.5749023,Most Likely To Find Items
 2016,Most Likely To Find Items,Beverage Cans,5.505861919,Most Likely To Find Items
@@ -124,36 +104,28 @@ Year,parent_id,id,value,colour
 2016,Most Likely To Find Items,Straws/Stirrers,36.57837603,Most Likely To Find Items
 2016,Most Likely To Find Items,Take Out Containers (Foam),5.931393834,Most Likely To Find Items
 2016,Most Likely To Find Items,Take Out Containers (Plastic),7.207989579,Most Likely To Find Items
-2016,Other Trash,Other Trash,14.97611811,silver
 2016,Other Trash,"Appliances (Fridges, Washers, Etc)",0.403821103,silver
 2016,Other Trash,Balloons,1.550151976,silver
 2016,Other Trash,Cigar Tips,1.437255753,silver
 2016,Other Trash,Cigarette Lighters,4.029526704,silver
 2016,Other Trash,Fireworks,1.320017369,silver
 2016,Other Trash,Tyres,0.581849761,silver
-2016,Packaging Materials,Packaging Materials,40.36039948,dimgray
 2016,Packaging Materials,6-Pack Holders,0.151975684,dimgray
 2016,Packaging Materials,Other Plastic / Foam Packaging,22.032132,dimgray
 2016,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",12.25358228,dimgray
 2016,Packaging Materials,Strapping Bands,4.02084238,dimgray
 2016,Packaging Materials,Tobacco Packaging / Wrappers,1.90186713,dimgray
-2016,Personal Hygiene,Personal Hygiene,0.85106383,orchid
 2016,Personal Hygiene,Condoms,0.21710812,orchid
 2016,Personal Hygiene,Diapers,0.225792445,orchid
 2016,Personal Hygiene,Syringes,0.160660009,orchid
 2016,Personal Hygiene,Tampons / Tampon Applicators,0.247503257,orchid
-2016,Total Distance (Metres),Total Distance (Metres),23030,Total Distance (Metres)
-2017,Debris Summary,Debris Summary,907.1870538,maroon
-2017,Fishing Gear,Fishing Gear,12.53212756,deepskyblue
 2017,Fishing Gear,Fishing Buoys,0.590195145,deepskyblue
 2017,Fishing Gear,Fishing Net & Pieces,3.284150405,deepskyblue
 2017,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),2.284626368,deepskyblue
 2017,Fishing Gear,Rope (1 Meter = 1 Piece),6.37315564,deepskyblue
-2017,Items Of Local Concern,Items Of Local Concern,350.0713946,Items Of Local Concern
 2017,Items Of Local Concern,Foam Pieces,258.1104236,Items Of Local Concern
 2017,Items Of Local Concern,Plastic Pieces,75.61161352,Items Of Local Concern
 2017,Items Of Local Concern,Rubber Bands,5.525940029,Items Of Local Concern
-2017,Most Likely To Find Items,Most Likely To Find Items,480.1618277,Most Likely To Find Items
 2017,Most Likely To Find Items,Beverage Bottles (Glass),8.810090433,Most Likely To Find Items
 2017,Most Likely To Find Items,Beverage Bottles (Plastic),87.16801523,Most Likely To Find Items
 2017,Most Likely To Find Items,Beverage Cans,7.129938125,Most Likely To Find Items
@@ -172,36 +144,28 @@ Year,parent_id,id,value,colour
 2017,Most Likely To Find Items,Straws/Stirrers,66.66825321,Most Likely To Find Items
 2017,Most Likely To Find Items,Take Out Containers (Foam),11.57068063,Most Likely To Find Items
 2017,Most Likely To Find Items,Take Out Containers (Plastic),14.13136602,Most Likely To Find Items
-2017,Other Trash,Other Trash,15.76868158,silver
 2017,Other Trash,"Appliances (Fridges, Washers, Etc)",0.490242742,silver
 2017,Other Trash,Balloons,1.423131842,silver
 2017,Other Trash,Cigar Tips,3.303188958,silver
 2017,Other Trash,Cigarette Lighters,5.116611138,silver
 2017,Other Trash,Fireworks,0.185625892,silver
 2017,Other Trash,Tyres,0.433127082,silver
-2017,Packaging Materials,Packaging Materials,47.59162304,dimgray
 2017,Packaging Materials,6-Pack Holders,0.290337934,dimgray
 2017,Packaging Materials,Other Plastic / Foam Packaging,33.63636364,dimgray
 2017,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",7.358400762,dimgray
 2017,Packaging Materials,Strapping Bands,4.026653974,dimgray
 2017,Packaging Materials,Tobacco Packaging / Wrappers,2.27986673,dimgray
-2017,Personal Hygiene,Personal Hygiene,1.061399334,orchid
 2017,Personal Hygiene,Condoms,0.195145169,orchid
 2017,Personal Hygiene,Diapers,0.27605902,orchid
 2017,Personal Hygiene,Syringes,0.27605902,orchid
 2017,Personal Hygiene,Tampons / Tampon Applicators,0.314136126,orchid
-2017,Total Distance (Metres),Total Distance (Metres),21010,Total Distance (Metres)
-2018,Debris Summary,Debris Summary,784.6084383,maroon
-2018,Fishing Gear,Fishing Gear,10.07374705,deepskyblue
 2018,Fishing Gear,Fishing Buoys,0.50168063,deepskyblue
 2018,Fishing Gear,Fishing Net & Pieces,2.919781267,deepskyblue
 2018,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),2.272613254,deepskyblue
 2018,Fishing Gear,Rope (1 Meter = 1 Piece),4.379671901,deepskyblue
-2018,Items Of Local Concern,Items Of Local Concern,294.7223198,Items Of Local Concern
 2018,Items Of Local Concern,Foam Pieces,203.8278232,Items Of Local Concern
 2018,Items Of Local Concern,Plastic Pieces,78.0263884,Items Of Local Concern
 2018,Items Of Local Concern,Rubber Bands,5.633873476,Items Of Local Concern
-2018,Most Likely To Find Items,Most Likely To Find Items,419.4050068,Most Likely To Find Items
 2018,Most Likely To Find Items,Beverage Bottles (Glass),0,Most Likely To Find Items
 2018,Most Likely To Find Items,Beverage Bottles (Plastic),0,Most Likely To Find Items
 2018,Most Likely To Find Items,Beverage Cans,0,Most Likely To Find Items
@@ -220,36 +184,28 @@ Year,parent_id,id,value,colour
 2018,Most Likely To Find Items,Straws/Stirrers,53.81026439,Most Likely To Find Items
 2018,Most Likely To Find Items,Take Out Containers (Foam),7.816184217,Most Likely To Find Items
 2018,Most Likely To Find Items,Take Out Containers (Plastic),8.408167361,Most Likely To Find Items
-2018,Other Trash,Other Trash,14.09722571,silver
 2018,Other Trash,"Appliances (Fridges, Washers, Etc)",0.526764662,silver
 2018,Other Trash,Balloons,1.279285607,silver
 2018,Other Trash,Cigar Tips,3.592033312,silver
 2018,Other Trash,Cigarette Lighters,4.118797973,silver
 2018,Other Trash,Fireworks,0.456529373,silver
 2018,Other Trash,Tyres,0.391310891,silver
-2018,Packaging Materials,Packaging Materials,45.57266844,dimgray
 2018,Packaging Materials,6-Pack Holders,0.245823509,dimgray
 2018,Packaging Materials,Other Plastic / Foam Packaging,32.0072242,dimgray
 2018,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",6.486730547,dimgray
 2018,Packaging Materials,Strapping Bands,3.998394622,dimgray
 2018,Packaging Materials,Tobacco Packaging / Wrappers,2.83449556,dimgray
-2018,Personal Hygiene,Personal Hygiene,0.737470526,orchid
 2018,Personal Hygiene,Condoms,0.195655446,orchid
 2018,Personal Hygiene,Diapers,0.200672252,orchid
 2018,Personal Hygiene,Syringes,0.220739477,orchid
 2018,Personal Hygiene,Tampons / Tampon Applicators,0.120403351,orchid
-2018,Total Distance (Metres),Total Distance (Metres),19933,Total Distance (Metres)
-2019,Debris Summary,Debris Summary,723.7278321,maroon
-2019,Fishing Gear,Fishing Gear,12.37061165,deepskyblue
 2019,Fishing Gear,Fishing Buoys,0.477741585,deepskyblue
 2019,Fishing Gear,Fishing Net & Pieces,1.860296779,deepskyblue
 2019,Fishing Gear,Fishing Line ( 1 Meter = 1 Piece),2.287368802,deepskyblue
 2019,Fishing Gear,Rope (1 Meter = 1 Piece),7.745204488,deepskyblue
-2019,Items Of Local Concern,Items Of Local Concern,272.3199421,Items Of Local Concern
 2019,Items Of Local Concern,Foam Pieces,170.2352515,Items Of Local Concern
 2019,Items Of Local Concern,Plastic Pieces,92.80492219,Items Of Local Concern
 2019,Items Of Local Concern,Rubber Bands,3.800217155,Items Of Local Concern
-2019,Most Likely To Find Items,Most Likely To Find Items,391.7336229,Most Likely To Find Items
 2019,Most Likely To Find Items,Beverage Bottles (Glass),5.515743757,Most Likely To Find Items
 2019,Most Likely To Find Items,Beverage Bottles (Plastic),77.81397032,Most Likely To Find Items
 2019,Most Likely To Find Items,Beverage Cans,4.357582338,Most Likely To Find Items
@@ -268,22 +224,18 @@ Year,parent_id,id,value,colour
 2019,Most Likely To Find Items,Straws/Stirrers,50.35830619,Most Likely To Find Items
 2019,Most Likely To Find Items,Take Out Containers (Foam),10.48859935,Most Likely To Find Items
 2019,Most Likely To Find Items,Take Out Containers (Plastic),17.65472313,Most Likely To Find Items
-2019,Other Trash,Other Trash,11.35722041,silver
 2019,Other Trash,"Appliances (Fridges, Washers, Etc)",0.796235975,silver
 2019,Other Trash,Balloons,0.991675715,silver
 2019,Other Trash,Cigar Tips,0.912052117,silver
 2019,Other Trash,Cigarette Lighters,4.777415852,silver
 2019,Other Trash,Fireworks,0.615273254,silver
 2019,Other Trash,Tyres,0.991675715,silver
-2019,Packaging Materials,Packaging Materials,35.21534564,dimgray
 2019,Packaging Materials,6-Pack Holders,0.224393775,dimgray
 2019,Packaging Materials,Other Plastic / Foam Packaging,20.26782483,dimgray
 2019,Packaging Materials,"Other Plastic Bottles (Oil, Bleach, Etc)",7.455664133,dimgray
 2019,Packaging Materials,Strapping Bands,4.15490409,dimgray
 2019,Packaging Materials,Tobacco Packaging / Wrappers,3.112558813,dimgray
-2019,Personal Hygiene,Personal Hygiene,0.731089396,orchid
 2019,Personal Hygiene,Condoms,0.173724213,orchid
 2019,Personal Hygiene,Diapers,0.246109301,orchid
 2019,Personal Hygiene,Syringes,0.246109301,orchid
 2019,Personal Hygiene,Tampons / Tampon Applicators,0.06514658,orchid
-2019,Total Distance (Metres),Total Distance (Metres),13815,Total Distance (Metres)
