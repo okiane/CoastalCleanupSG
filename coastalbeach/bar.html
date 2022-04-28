@@ -118,7 +118,6 @@
 	
 	<!--Display plot-->
 	<div id="plot_bar"></div>
-	<div><svg id="plot_legend" height="300" width="450"></svg></div>
 	
 	
 	<!--Import scripts-->
@@ -133,8 +132,8 @@
 //	const url_data = "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv"
 	const url_data = "https://raw.githubusercontent.com/okiane/CoastalCleanupSG/main/data/df_group_subgroup.csv"
 	
-	const width_max = 600;
-	const height_max = 500;
+	const width_max = 800;
+	const height_max = 400;
 	const margin = {top: 80, right: 10, bottom: 150, left: 80},
 		  width = width_max - margin.left - margin.right,
 		  height = height_max - margin.top - margin.bottom;
@@ -191,33 +190,7 @@
 
 		
 		// Load data
-		d3.csv(url_data).then(data => {	
-
-	////		-----Selection button-----
-	//		// Create options for year		
-	//		var list_year = new Set(data.map(d => d.Year).sort(d3.ascending))
-	//		
-	//		// Select button
-	//		d3.select("#button_year")
-	//			.selectAll()
-	//			.data(list_year)
-	//			.enter()
-	//			.append('option')
-	//			.text(function (d) { return d; }) 
-	//			.attr("value", function (d) { return d; 
-	//			}) 
-	//		
-	//		// Update selection
-	//		function update(year_selected) {
-	//
-	//			const data_year_selected = data_selected.filter(function(d){
-	//				return d.Year==year_selected
-	//			})
-	//			
-	//
-	//		}
-	//
-	//		
+		d3.csv(url_data).then(data => {
 
 //			-----Select data-----
 			
@@ -368,6 +341,83 @@
 				.attr("text-anchor", "left")
 				.style("alignment-baseline", "middle")
 			
+			 
+//		-----Display table-----
+			
+		var col_names = Array.from(Set(data_selected.map(d => d['id']).sort(d3.ascending)))
+		console.log(col_names)
+			
+		// Show table 
+		//https://gist.github.com/jfreels/6733593
+		function tabulate(data_selected, columns) {
+			var table = d3.select('body').append('table')
+			var thead = table.append('thead')
+			var	tbody = table.append('tbody');
+
+			// append the header row
+			thead.append('tr')
+			  .selectAll('th')
+			  .data(columns).enter()
+			  .append('th')
+				.text(function (column) { return column; });
+
+			// create a row for each object in the data
+			var rows = tbody.selectAll('tr')
+			  .data(data)
+			  .enter()
+			  .append('tr');
+
+			// create a cell in each row for each column
+			var cells = rows.selectAll('td')
+			  .data(function (row) {
+				return columns.map(function (column) {
+				  return {column: column, value: row[column]};
+				});
+			  })
+			  .enter()
+			  .append('td')
+				.text(function (d) { return d.value; });
+
+		  return table;
+		}
+		
+		tabulate(data, col_names)
+		
+		// Sortable data
+		d3.selectAll("thead td")
+			.data(data_selected)
+			.on("click", function(k) {
+				tr.sort(function(a, b) { 
+					return (b[k] / b[col_y_selected]) - (a[k] / a[col_y_selected]); 
+				});
+			});
+		
+		var tr = d3.select("tbody").selectAll("tr")
+				   .data(data_selected)
+				   .enter()
+				   .append("tr");
+		
+		tr.append("th")
+		  .text(function(d) { 
+			return d[col_x_selected]; 
+		  });
+
+		tr.selectAll("td")
+			.data(function(d) { 
+				return data_selected.map(function(k) { 		
+					return d[k] / d[col_y_selected]; 
+				}); 
+			})
+			.enter()
+			.append("td")
+			.append("svg")
+			.attr("width", 71)
+			.attr("height", 12)
+			.append("rect")
+			.attr("height", 12)
+			.attr("width", function(d) { 		
+				return d * 71; 
+			});
 			
 		});
 	}
