@@ -37,7 +37,7 @@
 		
 /*		-----Bar chart----*/
 		rect {
-			width: 3px;
+			width: 4px;
 		}
 
 		
@@ -232,7 +232,7 @@
 			   .join("rect")
 //			   .merge(plot)
 
-				   .attr("x", d => x(d[label_x])+4)
+				   .attr("x", d => x(d[label_x])+6)
 				   .attr("y", d => y(d[label_y]))
 				   .attr("width", x.bandwidth())
 				   .attr("height", d => height - y(d[label_y]))
@@ -248,7 +248,7 @@
 					.join("svg:circle")
 					.transition()
 					.duration(1000)
-					.attr("cx", d => x(d[label_x])+6)
+					.attr("cx", d => x(d[label_x])+8)
 					.attr("cy", d => y(d[label_y]))
 					.attr("r", 3)
 					.attr("fill", d => d[label_colour]);
