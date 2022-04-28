@@ -84,7 +84,7 @@
 	
 	<div class="intro">
 		<video src="image/barrel.mp4"></video>
-		<h1 style='width:100%'><span style="color:yellow">No longer</span> a lovely sight</h1>
+		<h1 style="width:100%"><span style="color:yellow">No longer</span> a lovely sight</h1>
 		<h2>☹</h2>
 	</div>
 	
@@ -92,15 +92,15 @@
 	<section>
 		<div class="container">
 			<img src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2019/05/29/lwx_trash3_290519_23.jpg?VersionId=t8p56sb1kl_jXURaGh9xqugiqXySzkWD&itok=D_d-WDRR" width="100%">
-			<div class="centered_top">
-				How <span style="color:yellow">dirty</span> can it get?
+			<div class="centered_top" style="top:18%">
+				How <span style="color: mediumvioletred">dirty</span> can it get?
 			</div>
 			
 			<div class="centered_textbox">
-				<p style="font-size:80px;color:yellow">16,066 kg</p>
+				<p style="font-size:80px;color: mediumvioletred">16,066 kg</p>
 				of marine trash were collected 
 				<br>during the coastal cleanup event organized by
-				<br><a href="http://coastalcleanup.nus.edu.sg/" style="color:yellow;">International Coastal Cleanup Singapore (ICC-SG)</a>
+				<br><a href="http://coastalcleanup.nus.edu.sg/" style="color:yellow;">International Coastal Cleanup Singapore</a>
 				<br><span style="font-size:50%">(Largest so far based on the last 5 years. Collected in 2014)</span>
 				
 			
@@ -263,7 +263,8 @@
 	<body>
 
 		<main>
-
+			
+<!--	-----Video and description of marine debris----- -->
 			<section id="scrolly">
 
 				<article>
@@ -287,6 +288,7 @@
 				</div>
 			</section>
 
+<!--	-----Description of effects of marine debris----- -->
 			<section id="outro">
 				<div class="container">
 					<img src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe7f35d4a-f7ef-11e8-8f64-ec083420809b.jpg?crop=3712%2C2088%2C93%2C537&resize=1200" width="100%">
@@ -322,11 +324,7 @@
 
 		</main>
 
-		<div style="top:85%;width:90%">
-			Has the marine trash problem improved over the years?
-		</div>
-		
-	<!-- <div class='debug'></div> -->
+
 
 		<script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
 		<script src="https://unpkg.com/scrollama"></script>
@@ -372,13 +370,53 @@
 			init();
 
 		</script>
+
+<!--	-----Bar chart showing overall trend----- -->
+		<div style="top:85%;width:90%">
+			<h1>Has the marine trash problem improved over the years?</h1>
+		</div>
 		
 		<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/9610556">
 			<script src="https://public.flourish.studio/resources/embed.js"></script>
 		</div>
 		
-		<iframe src="bar.html" width="800" height="1000" frameBorder="0"></iframe>
+		<div style="height:250px; width:100%; text-align:justify; top:50%">
+			<div class="container">
+				<p>
+				<div class="centered_textbox" style="font-size:60%; text-align:justify; width:90%">
+					<ul padding="10px">
+						<li>There seems to be fewer marine debris collected during the clean-up in 2019 than 2014</li>
+						<br><li>However, this is dependent on the total distance covered and number of participants involved in the cleanup.</li>
+						<br><li>A better way is to normalize the data based on the distance covered.</li>
+					</ul>
+				</div>
+				</p>
 
+			</div>
+		</div>
+		
+
+<!--	-----Lollipop chart showing detailed breakdown----- -->
+		<div style="top:85%;width:90%">
+			<h1>What are the kind of marine debris we are likely to find as we walk every 1 metre?</h1>
+		</div>
+		
+		<iframe src="bar.html" width="100%" height="900px" frameBorder="0"></iframe>
+
+		<div style="height:250px; width:100%; text-align:justify; top:50%">
+		<div class="container">
+			<p>
+			<div class="centered_textbox" style="font-size:60%; text-align:justify; width:90%">
+				<ul padding="10px">
+					<li>There seems to be fewer marine debris collected during the clean-up in 2019 than 2014</li>
+					<br><li>However, this is dependent on the total distance covered and number of participants involved in the cleanup.</li>
+					<br><li>A better way is to normalize the data based on the distance covered.</li>
+				</ul>
+			</div>
+			</p>
+
+		</div>
+	
 		
 		<div class="step"  data-step="Why">
 		How harmful is marine debris to organisms?
