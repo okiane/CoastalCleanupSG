@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+	<title>Marine Debris in Singapore</title>
+	
+	<link rel="stylesheet" href="style/style.css" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo|Red+Hat+Display">
+	
+
+	<style>
+		body{
+			font-family: "Exo", "Red Hat Display", Segoe, "sans-serif";*/;
+			font-size: 14px;
+			text-align: justified;
+			text-align: center; 
+		}
+		
+		#responsive-image {  
+			width: 100%;  
+			height: auto; 
+		} 
+		
+		.container {
+			position: relative;
+			text-align: center;
+/*			color: white;*/
+		}
+		
+		.centered {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 60px;
+			font-weight: bold;
+			color: white;
+		}
+		
+		.centered_top {
+			position: absolute;
+			top: 20%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 40px;
+			font-weight: bold;
+			color: black;
+		}
+		
+		.centered_textbox {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 20px;
+			font-weight: bold;
+			color: white;
+			background-color: rgb(0, 0, 0, 0.6);
+			padding: 10px;
+			padding-left: 20px;
+			padding-right: 20px;
+			border-radius: 25px;
+		}
+
+		ul {
+  			margin-left: 10px; 
+		}
+
+	</style>
+	
+</head>
+	
+
+<body>
+	<section>
+		<div class="container">
+			<img src="image/barrel.jpg" id="responsive-image">
+<!--			<div class="centered"><h2>It's such a lovely sight</h2></div>-->
+		</div>
+	</section>
+	
+	<div class="intro">
+		<video src="image/barrel.mp4"></video>
+		<h1 style="width:100%"><span style="color:yellow">No longer</span> a lovely sight</h1>
+		<p style="font-size:10px;">Actual video taken by us at Pasir Ris Beach</p>
+		<h2>☹</h2>
+	</div>
+	
+	
+	<section>
+		<div class="container">
+			<img src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2019/05/29/lwx_trash3_290519_23.jpg?VersionId=t8p56sb1kl_jXURaGh9xqugiqXySzkWD&itok=D_d-WDRR" width="100%">
+			<div class="centered_top" style="top:18%">
+				How <span style="color: orangered">dirty</span> can it get?
+			</div>
+			
+			<div class="centered_textbox">
+				<p style="font-size:100px; color:orangered">16,066 kg</p>
+				of marine trash were collected 
+				<br>during the coastal cleanup event organized by
+				<br><a href="http://coastalcleanup.nus.edu.sg/" style="color:yellow;">International Coastal Cleanup (Singapore)</a>
+				<br><span style="font-size:50%">(Largest so far based on the last 5 years. Collected in 2014)</span>
+				<p style="font-size:8px;"><a href="https://www.straitstimes.com/singapore/long-stretch-of-trash-found-along-east-coast-park">Background image taken in 2019 by Straits Times</a></p>
+
+			</div>
+			
+
+		</div>
+	</section>
+
+<!-- -----Libraries------ -->
+	<link rel="stylesheet" href="style/style1.css" />
+	
+	<!--add Leaflet CSS-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+	
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js" integrity="sha256-2p2tRZlPowp3P/04Pw2rqVCSbhyV/IB7ZEVUglrDS/c=" crossorigin="anonymous"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.js" integrity="sha256-peenofh8a9TIqKdPKIeQE7mJvuwh+J0To7nslvpj1jI=" crossorigin="anonymous"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.js" integrity="sha256-31FC/OT6XpfjAhj9FuXjw5/wPXXawCAjJQ29E23/XPk="	crossorigin="anonymous"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"	integrity="sha256-lPE3wjN2a7ABWHbGz7+MKBJaykyzqCbU96BJWjio86U=" crossorigin="anonymous"></script>
+	
+	<script src="app.js"></script>
+	
+
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="description" content="Scrollama: Sticky Side Example" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<style>
+			#scrolly {
+				position: relative;
+				display: -webkit-box;
+				display: -ms-flexbox;
+				display: flex;
+				background-color: #f3f3f3;
+				padding: 1rem;
+			}
+
+			#scrolly > * {
+				-webkit-box-flex: 1;
+				-ms-flex: 1;
+				flex: 1;
+			}
+
+			article {
+				position: relative;
+				padding: 0 1rem;
+				max-width: 20rem;
+			}
+
+			.sticky-thing {
+				position: -webkit-sticky;
+				position: sticky;
+				width: 100%;
+				margin: 0;
+/*				background-color: #8a8a8a;*/
+				z-index: 0;
+				top: 12.5vh;
+				height: 75vh;
+				
+				/* Center everything inside */
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				position: relative;
+			    overflow: hidden;
+			    text-align: center;
+/*				background-image: url("image/eastcoast.jpg") ;*/
+/*				background-size: cover;*/
+
+			}
+
+			.sticky-thing p {
+				padding: 1rem;
+				font-size: 8rem;
+				font-weight: 90;
+				color: #fff;
+			}
+
+			.step {
+				margin: 0 auto 2rem auto;
+				background-color: #3b3b3b;
+				color: #fff;
+
+			}
+
+			.step:last-child {
+				margin-bottom: 0;
+			}
+
+			.step.is-active {
+				background-color: goldenrod;
+				color: #3b3b3b;
+			}
+
+			.step p {
+				text-align: center;
+				padding: 1rem;
+				font-size: 1.5rem;
+			}
+			
+			video {
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+			
+			.video-container{
+				width: 100vw;
+				height: 100vh;
+			}
+			
+/*
+			iframe {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				width: 70vw;
+				height: 60vh;
+				transform: translate(-50%, -50%);
+			}
+*/
+
+			@media (min-aspect-ratio: 16/9) {
+			.video-container iframe {
+				height: 100vw;
+				}
+			}
+			
+			@media (max-aspect-ratio: 16/9) {
+			.video-container iframe {
+				width: 100vh;
+				}
+			
+			
+/*
+			.video-wrapper {
+			  border: 2px solid #000;
+			  width: 300px;
+			  height: 300px;
+			  position: relative;
+			  overflow: hidden;
+			  text-align: center;
+			  display: flex;
+			  align-items: center;
+			  justify-content: center;
+			}
+*/
+			</style>
+	</head>
+
+	<body>
+
+		<main>
+			
+<!--	-----Video and description of marine debris----- -->
+			<section id="scrolly">
+				
+			<table width="100%" border="0">
+			<tbody>
+				<tr>
+					<td>In 2019, NEA said it collected over 1,000 tonnes of floating marine debris from the beaches in East Coast Park.
+						<p style="font-size:14px;"><br>See more:</p>
+						<p><a href="https://www.youtube.com/watch?v=G7nyMHJxGmI" style="font-size:14px;">Singapore is full of trash!</a></p>
+						<p><a href="https://www.youtube.com/watch?v=7v7WLPmRJa8" style="font-size:14px;">Video of piles of trash found along East Coast Park</a></p>
+						<p><a href="https://www.straitstimes.com/singapore/long-stretch-of-trash-found-along-east-coast-park" style="font-size:14px;">Long stretch of trash found along beach at East Coast Park</a></p>
+
+					
+					</td>
+					<td width="70%" height="500px">
+						<iframe src="https://www.youtube.com/embed/4gqjAclpz-o?autoplay=1&mute=1&loop=1" width="100%" height="100%"></iframe>
+						<p style="font-size:10px;"><a href="https://www.youtube.com/watch?v=4gqjAclpz-o">Video source</a></p>
+					</td>
+				</tr>
+			</tbody>
+			</table>
+
+				
+<!--
+
+				<article>
+					<div class="step" data-step="How_much">
+						In 2019, NEA said it collected over 1,000 tonnes of floating marine debris from the beaches in East Coast Park.
+					</div>
+
+				</article>
+
+				<div class="sticky-thing">
+					<iframe src="https://www.youtube.com/embed/4gqjAclpz-o?autoplay=1&mute=1&loop=1" width="100%" height="100%"></iframe>
+					<p style="font-size:10px;"><a href="https://www.youtube.com/watch?v=4gqjAclpz-o">Video source</a></p>
+				</div>
+-->
+			</section>
+
+<!--	-----Description of effects of marine debris----- -->
+<!--			<section id="outro">-->
+				<div class="container">
+					<img src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe7f35d4a-f7ef-11e8-8f64-ec083420809b.jpg?crop=3712%2C2088%2C93%2C537&resize=1200" width="100%">
+					
+					
+					<div class="centered" style="top:15%;width:90%">
+						Why is marine debris a <span style="color:yellow">problem</span>?
+					</div>
+					
+					<div class="centered_textbox" style="font-size:60%; text-align:justify; top:60%; left:80%; width:40%">
+						<ul padding="10px">
+							<li>Marine animals get <span style="color:yellow">entangled</span> and <span style="color:yellow">cut</span> by fishing nets, or even trapped in plastic, making it difficult for them to swim around</li>
+							
+							<br><li>Marine debris may be mistaken as food or <span style="color:yellow">accidentally eaten</span> by marine animals, which can cause obstruction in their digestive tract, puncture the insides of their guts, or cause them to feel full but they are <span style="color:yellow">starving</span>.</li> 
+							
+							<br><li>Also, these debris with sharp edges or harmful substances that leach into the water bodies are also <span style="color:yellow">consumed by us</span> when we eat the seafood.</li>
+
+							<br><li>Marine debris causes <span style="color:yellow">habitat damage</span> and allow <span style="color:yellow">non-native species to attach and travel</span> to new places.</li>
+
+
+							<br><li>Larger marine trash poses <span style="color:yellow">threats to navigation</span> by vessels, sometimes causing collisions.</li>
+
+							<br><li>Marine trash affect <span style="color:yellow">tourism</span> and <span style="color:yellow">livelihoods</span> of fishermen.</li>
+						</ul>
+						
+						<a href="https://marinedebris.noaa.gov/discover-marine-debris/why-marine-debris-problem" style="font-size:10px;">Info source</a>
+					</div>
+					
+					<div class="centered" style="top:85%;width:90%">
+						<br><a href="https://www.thetimes.co.uk/article/plastic-found-in-every-dead-turtle-6dt7mdpgs" style="font-size:10px;">Image source</a>
+					</div>
+				</div>
+<!--			</section>-->
+
+		
+
+
+
+		<script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+		<script src="https://unpkg.com/scrollama"></script>
+
+		<script>
+			// using d3 for convenience
+			var main = document.querySelector("main");
+			var scrolly = main.querySelector("#scrolly");
+			var sticky = scrolly.querySelector(".sticky-thing");
+			var article = scrolly.querySelector("article");
+			var steps = article.querySelectorAll(".step");
+
+			// initialize the scrollama
+			var scroller = scrollama();
+
+			// scrollama event handlers
+			function handleStepEnter(response) {
+			// response = { element, direction, index }
+			var el = response.element;
+
+			// remove is-active from all steps
+			// then add is-active to this step
+			steps.forEach(step => step.classList.remove('is-active'));
+			el.classList.add('is-active');
+
+			// update graphic based on step
+			sticky.querySelector("p").innerText = el.dataset.step;
+			}
+
+			function init() {
+				scroller.setup({
+						step: "#scrolly article .step",
+						offset: 0.33,
+						debug: false
+				})
+			.onStepEnter(handleStepEnter);
+
+			// setup resize event
+			window.addEventListener("resize", scroller.resize);
+			}
+
+			// kick things off
+			init();
+
+		</script>
+
+<!--	-----Bar chart showing overall trend----- -->
+<!--		<section id="trend">-->
+			<div style="top:85%;width:90%">
+				<h1>Has the marine trash problem improved over the years?</h1>
+			</div>
+
+				<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/9610556" style="height:900px">
+					<script src="https://public.flourish.studio/resources/embed.js"></script>
+				</div>
+
+
+			<div class="step" style="font-size:70%; text-align:justify; padding:20px">
+				<ul>
+					<li>There seems to be fewer marine debris collected during the clean-up in 2019 than 2014</li>
+					<li>However, this is dependent on the total distance covered and number of participants involved in the cleanup.</li>
+					<li>A better way is to normalize the data based on the distance covered.</li>
+				</ul>
+			</div>
+<!--		</section>-->
+		
+<!--	-----Lollipop chart showing detailed breakdown----- -->
+<!--		<section id="lollipop">-->
+			<div style="top:85%; width:90%">
+				<h1>What are the kind of marine debris we are likely to find as we walk every 1 metre?</h1>
+			</div>
+
+			<iframe src="bar.html" width="100%" height="500px" frameBorder="0"></iframe>
+			<iframe src="table.html" width="100%" height="900px" frameBorder="0"></iframe>
+
+			<div class="step" style="font-size:70%; text-align:justify; padding:20px">
+				<ul>
+					<li><span style="color:yellow; font-weight:bold;">Foam pieces, Plastic beverage bottles, Plastic pieces, Cigarette butts, Straws/Stirrers</span> are the top 5 commonly found marine debris.</li>
+					<li>Top commonly found marine debris: <span style="color:yellow; font-weight:bold;">Foam pieces</span>.</li>
+					<li>The rest are largely <span style="color:yellow; font-weight:bold;">plastics</span>, which can <span style="color:yellow; font-weight:bold;">affect our health</span> and is <a href="https://www.straitstimes.com/singapore/politics/parliament-two-year-study-underway-to-look-into-marine-litter-and-microplastics">currently studied</a>.</li>
+				</ul>
+			</div>
+<!--		</section>-->
+		
+<!--	-----Location barchart----- -->
+<!--		<section id="location">-->
+			<div>
+				<h1 style="font-size:60px">Where are the marine debris found?</h1>
+
+				<iframe src="topo.html" width="100%" height="600px" frameBorder="0"></iframe>
+			
+
+
+<!--
+			load leaflet.js
+			<script src="https://d3js.org/d3.v7.min.js"></script>
+			<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+			
+			<script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+			
+			<script>
+			let map = L.map('map-container',{
+					scrollWheelZoom: false
+				}).setView([1.3521, 103.8198], 11.5);
+				
+			let bglayer_Positron = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+				subdomains: 'abcd',
+				maxZoom: 19
+			});
+
+			bglayer_Positron.addTo(map);
+
+			//extend Leaflet to create a GeoJSON layer from a TopoJSON file
+			L.TopoJSON = L.GeoJSON.extend({
+				addData: function (data) {
+					var geojson, key;
+					if (data.type === "Topology") {
+						for (key in data.objects) {
+							if (data.objects.hasOwnProperty(key)) {
+								geojson = topojson.feature(data, data.objects[key]);
+								L.GeoJSON.prototype.addData.call(this, geojson);
+							}
+						}
+					return this;
+					}
+					
+				L.GeoJSON.prototype.addData.call(this, data);
+				return this;
+				}
+			});
+				
+			L.topoJson = function (data, options) {
+				return new L.TopoJSON(data, options);
+			};
+				
+			//create an empty geojson layer
+			//with a style and a popup on click
+			var geojson = L.topoJson(null, {
+				style: function(feature){
+					return {
+					color: "#000",
+					opacity: 1,
+					weight: 1,
+					fillColor: '#35495d',
+					fillOpacity: 0.8
+					}
+				},
+				
+				onEachFeature: function(feature, layer) {
+					layer.bindPopup('<p>'+feature.properties.name+'</p>')
+				}
+			}).addTo(map);
+				
+			//fill: #317581;
+			//define a function to get and parse geojson from URL
+			async function getGeoData(url) {
+				let response = await fetch(url);
+				let data = await response.json();
+				console.log(data)
+				return data;
+			}
+
+			// Fetch geojson and add it to geojson layer
+			getGeoData('https://raw.githubusercontent.com/ngxlx/beach/main/sgbeachdone.topojson').then(data => geojson.addData(data));
+			</script>
+-->
+			
+<!--	-----Location barchart----- -->
+				<!-- west-->
+				<div class="flourish-embed flourish-chart" data-src="visualisation/9634080" style="width:48%; display: inline-block; vertical-align: top;">
+				<script src="https://public.flourish.studio/resources/embed.js"></script></div>
+				<!-- east-->
+				<div class="flourish-embed flourish-chart" data-src="visualisation/9633193" style="width:48%; display: inline-block; vertical-align: top;">
+				<script src="https://public.flourish.studio/resources/embed.js"></script></div>
+				<!-- north-east-->
+				<div class="flourish-embed flourish-chart" data-src="visualisation/9634239" style="width:48%; display: inline-block; vertical-align: top;">
+				<script src="https://public.flourish.studio/resources/embed.js"></script></div>
+				<!-- pulau ubin-->
+				<div class="flourish-embed flourish-chart" data-src="visualisation/9634357" style="width:48%; display: inline-block; vertical-align: top;">
+				<script src="https://public.flourish.studio/resources/embed.js"></script></div>
+			</div>
+<!--		</section>-->
+		
+<!--	-----Call for action----- -->
+<!--	<section id="action">-->
+		<div class="step" data-step="Why">
+			<h1 style="font-size:60px">Who keeps our beaches clean?</h1>
+			Besides 
+			<a href="https://www.straitstimes.com/singapore/environment/working-to-keep-singapores-beaches-clean">cleaners</a>, 
+			<a href="https://www.straitstimes.com/singapore/singapores-beaches-cleaned-twice-a-day-during-monsoon-seasons">agencies</a>,
+			<a href="https://www.straitstimes.com/singapore/ocean-paddlers-clear-singapore-coastline-of-trash-in-cleanup">paddlers</a>, and 
+			<a href="http://coastalcleanup.nus.edu.sg">coastal cleanup volunteers</a>, 
+			<br><span style="font-size:60px;"><span style="color:yellow;">YOU</span> too can make a difference</span>
+			<br>so that we can all enjoy the beauty of nature.
+
+				<iframe src="https://www.youtube.com/embed/h8hQ31Ec-lU?start=34&autoplay=1&mute=1&loop=1" width="100%" height="400px"></iframe>
+				<p style="font-size:10px;"><a href="https://www.youtube.com/watch?v=h8hQ31Ec-lU">Video source</a></p>
+			
+		
+			<div class="img">
+				<div class="container">
+					<div class="centered_textbox" style="top:60%">
+						<h2>Hopefully?</h2>
+						
+					</div>
+
+					<img style="width: 100%; object-fit: contain" src="image/clean_beach.jpg">
+
+					<div class="centered_textbox" style="top:90%;width:100%">
+						<p style="font-size:10px;">
+							This site is created by <a href="https://github.com/okiane/">Ong Kian Eng</a> and <a href="https://github.com/ngxlx">Ng Xun Long</a> using a combination of D3 and online data visualization tools.
+							<br>Photos and videos were taken by us if not otherwise stated.
+							<br><a href="https://www.planetware.com/singapore/best-beaches-sin-1-8.htm">Background photo of Siloso Beach, Sentosa, Singapore</a>
+						</p>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+<!--	</section>-->
+	</main>
+	</body>
+	
+</body>
+</html>
