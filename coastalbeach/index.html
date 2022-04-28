@@ -18,6 +18,28 @@
 			text-align: justified;
 			text-align: center; 
 		}
+		
+		#responsive-image {  
+			width: 100%;  
+			height: auto; 
+		} 
+		
+		.container {
+			position: relative;
+			text-align: center;
+/*			color: black;*/
+		}
+		
+		.centered {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 60px;
+			font-weight: bold;
+			color: black;
+		}
+
 	</style>
 	
 </head>
@@ -25,12 +47,18 @@
 
 <body>
 	<section>
-		<img src="image/beach.jpg" height="400" width="600">
+		<div class="container">
+			<img src="image/barrel.jpg" id="responsive-image">
+			<div class="centered"><h2>It's such a lovely sight</h2></div>
+			
+		</div>
+		
+		
 	</section>
 	
 	<div class="intro">
-		<h1>Marine Debris in Singapore</h1>
 		<video src="image/barrel.mp4"></video>
+		<h1>Not anymore</h1>
 	</div>
 	
 	<section>

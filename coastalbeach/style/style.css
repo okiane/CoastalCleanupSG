@@ -24,8 +24,20 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 80px;
+  font-weight: bold;
   color: white;
 }
+
+.intro h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
 
 section {
   height: 100vh;
