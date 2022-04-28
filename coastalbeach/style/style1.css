@@ -23,15 +23,34 @@
   h4,
   a {
     margin: 0;
-    font-weight: 400;
+/*    font-weight: 400;*/
   }
   
+/*
   a,
   a:visited,
   a:hover {
     color: teal;
     text-decoration: none;
     border-bottom: 2px solid currentColor;
+  }
+*/
+  a:link {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+  }  
+
+  a:visited {
+    color: deepskyblue;
+    background-color: transparent;
+    text-decoration: none;
+  }  
+
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
   }
   
   nav {
